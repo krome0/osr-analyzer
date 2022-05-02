@@ -194,4 +194,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#private folder
 private
+
+#osr files used to test codes
+*.osr
